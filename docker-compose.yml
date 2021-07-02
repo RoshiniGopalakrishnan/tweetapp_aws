@@ -1,0 +1,7 @@
+version: '3'
+services:
+  tweet-app:
+    image: tweet-app
+    build: tweetApp/.
+    ports:
+        - 8080:3000
