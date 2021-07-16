@@ -1,4 +1,4 @@
-export const BASE_URI ='http://localhost:8070'
+export const BASE_URI ='http://13.59.139.84:8000'
 export const BASE_TWEET_URL = '/api/v1.0/tweets'
 export const FORGOT_PASSWD = '/forgetPassword'
 export const AUTHENTICATE = '/authenticate'
